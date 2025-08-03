@@ -1,4 +1,4 @@
-<h1 align="center">Hiii!, I'm Ariana Ivonne 👋</h1>
+<h1 align="center">Hiii !, I'm Ariana Ivonne 👋</h1>
 <p align="center">🎓 Systems Engineering Student | 🧠 Lifelong Learner | 📊 Aspiring Data Analyst</p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 
 - 🌱 I'm currently in the **7th cycle** of my career, working towards becoming a **data analyst**.
 - 💻 My top technical skills:
+
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
