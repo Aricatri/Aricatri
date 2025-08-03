@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ariana Ivonne 👋</h1>
+<h1 align="center">Hiii!, I'm Ariana Ivonne 👋</h1>
 <p align="center">🎓 Systems Engineering Student | 🧠 Lifelong Learner | 📊 Aspiring Data Analyst</p>
 
 <p align="center">
